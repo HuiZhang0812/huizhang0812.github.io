@@ -18,16 +18,20 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-I'm a 4th year Ph.D. student in the School of Computer Science at Fudan University, supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en). Before that, I received my bachelor’s degree of Computer Science at Jiangsu University of Science and Technology in 2020.
+I'm a 4th year Ph.D. student in the School of Computer Science at Fudan University, supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en). 
+ <!-- 
+ Before that, I received my bachelor’s degree of Computer Science at Jiangsu University of Science and Technology in 2020.
+ -->
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest lies in computer vision and deep learning. My current research focuses on image and video generation, large language models, and vision-language models. My previous research focuses on anomaly detection.
+
+Currently, I am working as an intern at ByteDance, focusing on controllable image generation.
+
+I am set to graduate in 2026 and am actively seeking job opportunities in both industry and academia. If you are interested in discussing potential collaborations or positions, please feel free to email me at hui_zhang23@m.fudan.edu.cn.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
