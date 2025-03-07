@@ -45,6 +45,17 @@ Layout-to-Image Generation](https://arxiv.org/pdf/2412.03859)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/BlockDance.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate
+Diffusion Transformers]
+
+**Hui Zhang**, Tingwei Gao, Jie Shao, Zuxuan Wu
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AdaDiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
