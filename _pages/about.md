@@ -33,6 +33,40 @@ I am set to graduate in 2026 and am actively seeking job opportunities in both i
 
 # Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/CreatiLayout.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative
+Layout-to-Image Generation](https://arxiv.org/pdf/2412.03859)
+
+**Hui Zhang**, Dexiang Hong, Tingwei Gao, Yiyong Wang, Jie Shao, Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang
+[**[Code]**](https://github.com/HuiZhang0812/CreatiLayout) [**[Project Page]**](https://creatilayout.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AdaDiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AdaDiff: Adaptive Step Selection for Fast Diffusion Models](https://arxiv.org/pdf/2311.14768)
+
+**Hui Zhang**, Zuxuan Wu, Zhen Xing, Jie Shao, Yu-Gang Jiang
+[**[Code]**](https://github.com/username/diffusionad) [**[Project Page]**](https://project-url.com)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2023</div><img src='images/DiffusionAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DiffusionAD: Norm-guided One-step Denoising Diffusion for Anomaly Detection](https://arxiv.org/pdf/2303.08730)
+
+**Hui Zhang**, Zheng Wang, Zuxuan Wu, Yu-Gang Jiang
+
+[**[Code]**](https://github.com/HuiZhang0812/DiffusionAD) 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/PRN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
