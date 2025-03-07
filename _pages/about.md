@@ -27,11 +27,11 @@ My research interest lies in computer vision and deep learning. My current resea
 
 Currently, I am working as an intern at ByteDance, focusing on controllable image generation.
 
-I am set to graduate in 2026 and am actively seeking job opportunities in both industry and academia. If you are interested in discussing potential collaborations or positions, please feel free to email me at hui_zhang23@m.fudan.edu.cn.
+I am set to graduate in 2026 and am actively seeking internships and job opportunities. If you are interested in discussing potential collaborations or positions, please feel free to email me at hui_zhang23@m.fudan.edu.cn.
 
 
 
-# Publications 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/CreatiLayout.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,16 +90,22 @@ Diffusion Transformers]
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12* First Class Award Scholarship of Fudan University (Top 10%)
+- *2019.12* National Scholarship (Top 1%) 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🔍 Research Experience
+- **2022.03 - 2023.03**, Research Intern.
+- Huawei, Central Media Technology Institute, Hangzhou
+- Research: Anomaly Detection
+- Supervisor: Yang Hu
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **2024.01 - Present**, Research Intern.
+- ByteDance, Intelligent Creation, Shanghai
+- Research: Image Generation
+- Supervisor: Jie Shao
+
+# 💼 Professional Service
+- Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR
+- Teaching Assistant: Artificial Intelligence at Fudan University
+
