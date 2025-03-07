@@ -40,6 +40,7 @@ I am set to graduate in 2026 and am actively seeking job opportunities in both i
 Layout-to-Image Generation](https://arxiv.org/pdf/2412.03859)
 
 **Hui Zhang**, Dexiang Hong, Tingwei Gao, Yiyong Wang, Jie Shao, Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang
+
 [**[Code]**](https://github.com/HuiZhang0812/CreatiLayout) [**[Project Page]**](https://creatilayout.github.io/)
 </div>
 </div>
@@ -50,7 +51,6 @@ Layout-to-Image Generation](https://arxiv.org/pdf/2412.03859)
 [AdaDiff: Adaptive Step Selection for Fast Diffusion Models](https://arxiv.org/pdf/2311.14768)
 
 **Hui Zhang**, Zuxuan Wu, Zhen Xing, Jie Shao, Yu-Gang Jiang
-[**[Code]**](https://github.com/username/diffusionad) [**[Project Page]**](https://project-url.com)
 
 </div>
 </div>
