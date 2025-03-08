@@ -25,7 +25,7 @@ I'm a 4th year Ph.D. student in the School of Computer Science at Fudan Universi
 My research interest lies in computer vision and deep learning. My current research focuses on **image generation**, video generation, large language models, and vision-language models. My previous research focuses on anomaly detection.
 
 
-I am set to graduate in 2026 and am actively **seeking internships and job opportunities**. If you are interested in discussing potential collaborations or positions, please feel free to email me at hui_zhang23@m.fudan.edu.cn.
+I am set to graduate in 2026 and am actively **seeking internship and job opportunities**. If you are interested in discussing potential collaborations or positions, please feel free to email me at hui_zhang23@m.fudan.edu.cn.
 
 
 
