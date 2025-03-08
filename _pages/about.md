@@ -98,12 +98,12 @@ Diffusion Transformers
 
 # 🔍 Research Experience
 - **2022.03 - 2023.03**, Research Intern.
-  - **Huawei**, Central Media Technology Institute, Hangzhou
+  - [**Huawei**](https://www.huawei.com/en/), Central Media Technology Institute, Hangzhou
   - Research: Anomaly Detection
   - Supervisor: Yang Hu
 
 - **2024.01 - Present**, Research Intern.
-  - **ByteDance**, Intelligent Creation, Shanghai
+  - [**ByteDance**](https://www.bytedance.com/en/), Intelligent Creation, Shanghai
   - Research: Image Generation
   - Supervisor: Jie Shao
 
