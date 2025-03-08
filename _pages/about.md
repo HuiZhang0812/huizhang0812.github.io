@@ -88,18 +88,20 @@ Diffusion Transformers
 
 
 # 🎖 Honors and Awards
-- *2023.12* First Class Award Scholarship of Fudan University (Top 10%)
-- *2019.12* National Scholarship (Top 1%) 
+- *2023.12*, **First Class Award Scholarship**, Fudan University (Top 10%, PhD)
+- *2022.12*, **Excellent Academic Scholarship**, Fudan University (Top 5%, Master)
+- *2021.03*, **Perfect Score (150/150) in Mathematics**, Nationwide Master's Program Unified Admissions Examination (Top 0.1% nationally)
+- *2019.12*, **National Scholarship** of China (Top 1%, Undergrad)
 
 
 # 🔍 Research Experience
 - **2022.03 - 2023.03**, Research Intern.
-  - Huawei, Central Media Technology Institute, Hangzhou
+  - **Huawei**, Central Media Technology Institute, Hangzhou
   - Research: Anomaly Detection
   - Supervisor: Yang Hu
 
 - **2024.01 - Present**, Research Intern.
-  - ByteDance, Intelligent Creation, Shanghai
+  - **ByteDance**, Intelligent Creation, Shanghai
   - Research: Image Generation
   - Supervisor: Jie Shao
 
