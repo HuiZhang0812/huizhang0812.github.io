@@ -34,8 +34,7 @@ I am set to graduate in 2026 and am actively **seeking internships and job oppor
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/CreatiLayout.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative
-Layout-to-Image Generation](https://arxiv.org/pdf/2412.03859)
+[CreatiLayout: Siamese Multimodal Diffusion Transformer for Creative Layout-to-Image Generation](https://arxiv.org/pdf/2412.03859)
 
 **Hui Zhang**, Dexiang Hong, Tingwei Gao, Yiyong Wang, Jie Shao, Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang
 
@@ -46,8 +45,7 @@ Layout-to-Image Generation](https://arxiv.org/pdf/2412.03859)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/BlockDance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate
-Diffusion Transformers
+BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers
 
 **Hui Zhang**, Tingwei Gao, Jie Shao, Zuxuan Wu
 
