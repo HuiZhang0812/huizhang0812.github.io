@@ -92,6 +92,8 @@ Diffusion Transformers
 - *2022.12*, **Excellent Academic Scholarship**, Fudan University (Top 5%, Master)
 - *2021.03*, **Perfect Score (150/150) in Mathematics**, Nationwide Master's Program Unified Admissions Examination (Top 0.1% nationally)
 - *2019.12*, **National Scholarship** of China (Top 1%, Undergrad)
+- *2019.07*, Second Prizes, 15th 'BoChuang Cup' National College Students Embedded Design Contest
+- *2019.05*, Second Prizes, 10th "Blue Bridge Cup" National C/C++ Programming Contest
 
 
 # 🔍 Research Experience
