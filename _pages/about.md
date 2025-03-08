@@ -104,7 +104,7 @@ Diffusion Transformers
   - Research: Image Generation
   - Supervisor: Jie Shao
 
-# 💼 Professional Service
+# 💼 Academic Service
 - Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR
 - Teaching Assistant: Artificial Intelligence at Fudan University
 
