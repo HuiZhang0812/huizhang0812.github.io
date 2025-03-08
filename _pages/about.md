@@ -105,7 +105,7 @@ Diffusion Transformers
 
 - **2024.01 - Present**, Research Intern.
   - [**ByteDance**](https://www.bytedance.com/en/), Intelligent Creation, Shanghai
-  - Research: Image Generation
+  - Research: Efficient and Controllable Image Generation
   - Supervisor: Jie Shao
 
 # 💼 Academic Service
