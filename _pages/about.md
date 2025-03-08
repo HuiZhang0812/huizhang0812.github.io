@@ -19,9 +19,8 @@ redirect_from:
 
 # Biography
 I'm a 4th year Ph.D. student in the School of Computer Science at Fudan University, supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en). 
- <!-- 
  Before that, I received my bachelor’s degree of Computer Science at Jiangsu University of Science and Technology in 2020.
- -->
+
 
 My research interest lies in computer vision and deep learning. My current research focuses on image and video generation, large language models, and vision-language models. My previous research focuses on anomaly detection.
 
