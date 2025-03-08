@@ -111,5 +111,5 @@ BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Di
 - Teaching Assistant: Artificial Intelligence at Fudan University
 
 # 📄 Curriculum Vitae
-A brief cv/resume of [Hui Zhang](https://github.com/HuiZhang0812/huizhang0812.github.io/blob/main/CV_huizhang_en.pdf).
+A brief cv/resume of [Hui Zhang](https://huizhang0812.github.io/CV_huizhang_en.pdf).
 
