@@ -19,7 +19,6 @@ redirect_from:
 
 # Biography
 I'm a 4th year Ph.D. student in the School of Computer Science at Fudan University, supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en). 
- Before that, I received my bachelor’s degree of Computer Science at Jiangsu University of Science and Technology in 2020.
 
 
 My research interest lies in computer vision and deep learning. My current research focuses on **image generation**, video generation, large language models, and vision-language models. My previous research focuses on anomaly detection.
@@ -45,7 +44,7 @@ I am set to graduate in 2026 and am actively **seeking internship and job opport
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/BlockDance.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers
+[BlockDance: Reuse Structurally Similar Spatio-Temporal Features to Accelerate Diffusion Transformers](https://arxiv.org/pdf/2503.15927)
 
 **Hui Zhang**, Tingwei Gao, Jie Shao, Zuxuan Wu
 
