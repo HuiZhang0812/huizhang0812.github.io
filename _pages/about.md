@@ -88,11 +88,10 @@ I am set to graduate in 2026 and am actively **seeking internship and job opport
 - 2023.12, **First Class Award Scholarship**, Fudan University (**Top 10%**, PhD)
 - 2022.12, **Excellent Academic Scholarship**, Fudan University (**Top 5%**, Master)
 - 2021.03, **Perfect Score (150/150) in Mathematics**, Nationwide Master's Program Unified Admissions Examination (**Top 0.1%**, Nationally)
-- 2020.06, **Outstanding graduates** of Jiangsu University of Science and Technology (**Top 5%**)
 - 2019.12, **National Scholarship** of China (**Top 1%**)
 - 2019.07, **Second Prizes**, 15th 'BoChuang Cup' National College Students Embedded Design Contest (**Top 3%**)
 - 2019.05, **Second Prizes**, 10th "Blue Bridge Cup" National C/C++ Programming Contest (**Top 2%**)
-
+<!-- 2020.06, **Outstanding graduates** of Jiangsu University of Science and Technology (**Top 5%**)-->
 
 # 🔍 Research Experience
 - **2022.03 - 2023.03**, Research Intern.
