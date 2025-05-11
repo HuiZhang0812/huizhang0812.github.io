@@ -62,7 +62,7 @@ I am set to graduate in 2026 and am actively **seeking internship and job opport
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2023</div><img src='images/DiffusionAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI</div><img src='images/DiffusionAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffusionAD: Norm-guided One-step Denoising Diffusion for Anomaly Detection](https://arxiv.org/pdf/2303.08730)
