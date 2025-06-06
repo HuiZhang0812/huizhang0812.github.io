@@ -30,6 +30,18 @@ I am set to graduate in 2026 and am actively **seeking internship and job opport
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/CreatiDesign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CreatiDesign: A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design](https://arxiv.org/pdf/2505.19114)
+
+**Hui Zhang**, Dexiang Hong, Maoke Yang, Yutao Cheng, Zhao Zhang, Jie Shao, Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang
+
+[**[Code]**](https://github.com/HuiZhang0812/CreatiDesign) [**[Project Page]**](https://huizhang0812.github.io/CreatiDesign/) [**[Dataset]**](https://huggingface.co/datasets/HuiZhang0812/CreatiDesign_dataset) [**[Benchmark]**](https://huggingface.co/datasets/HuiZhang0812/CreatiDesign_benchmark) [**[Model]**](https://huggingface.co/HuiZhang0812/CreatiDesign)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2024</div><img src='images/CreatiLayout.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,7 +49,20 @@ I am set to graduate in 2026 and am actively **seeking internship and job opport
 
 **Hui Zhang**, Dexiang Hong, Tingwei Gao, Yiyong Wang, Jie Shao, Xinglong Wu, Zuxuan Wu, Yu-Gang Jiang
 
-[**[Code]**](https://github.com/HuiZhang0812/CreatiLayout) [**[Project Page]**](https://creatilayout.github.io/)
+[**[Code]**](https://github.com/HuiZhang0812/CreatiLayout) [**[Project Page]**](https://creatilayout.github.io/) [**[Dataset]**](https://huggingface.co/datasets/HuiZhang0812/LayoutSAM) [**[Benchmark]**](https://huggingface.co/datasets/HuiZhang0812/LayoutSAM-eval) [**[Model]**](https://huggingface.co/HuiZhang0812/CreatiLayout) [**[Demo]**](https://huggingface.co/spaces/HuiZhang0812/CreatiLayout)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/Seg2Any.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Seg2Any: Open-set Segmentation-Mask-to-Image
+Generation with Precise Shape and Semantic Control](https://arxiv.org/pdf/2506.00596)
+
+Danfeng Li, **Hui Zhang**, Sheng Wang, Jiacheng Li, Zuxuan Wu
+
+[**[Project Page]**](https://seg2any.github.io/) 
 </div>
 </div>
 
