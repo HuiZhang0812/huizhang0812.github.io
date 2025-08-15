@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-I'm a 4th year Ph.D. student in the School of Computer Science at Fudan University, supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en). 
+I'm a 4th-year Ph.D. student in the School of Computer Science at Fudan University, supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en). 
 
 
-My research interest lies in computer vision and deep learning. My current research focuses on **image generation**, video generation, large language models, and vision-language models. My previous research focuses on anomaly detection.
+My research interest lies in computer vision and deep learning. My current research focuses on **Unified Model for Generation and Understanding**, Image Generation, and Video Generation. My previous research focuses on anomaly detection.
 
 
 I am set to graduate in 2026 and am actively **seeking internship and job opportunities**. If you are interested in discussing potential collaborations or positions, please feel free to email me at hui_zhang23@m.fudan.edu.cn.
@@ -122,12 +122,10 @@ Danfeng Li, **Hui Zhang**, Sheng Wang, Jiacheng Li, Zuxuan Wu
 - **2022.03 - 2023.03**, Research Intern.
   - [**Huawei**](https://www.huawei.com/en/), Central Media Technology Institute, Hangzhou
   - Research: Anomaly Detection
-  - Supervisor: Yang Hu
 
-- **2024.01 - Present**, Research Intern.
+- **2024.01 - 2025.07**, Research Intern.
   - [**ByteDance**](https://www.bytedance.com/en/), Intelligent Creation, Shanghai
   - Research: Efficient and Controllable Image Generation
-  - Supervisor: Jie Shao
 
 # 💼 Academic Service
 - Reviewer: CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR
