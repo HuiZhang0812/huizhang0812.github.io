@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-I'm a 4th-year Ph.D. student in the School of Computer Science at Fudan University, supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en). 
+I'm a final-year Ph.D. student in the School of Computer Science at Fudan University, supervised by [Prof. Zuxuan Wu](https://zxwu.azurewebsites.net/) and [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ&hl=en). 
 
 
 My research interest lies in computer vision and deep learning. My current research focuses on **Unified Model for Generation and Understanding**, Image Generation, and Video Generation. My previous research focuses on anomaly detection.
@@ -54,7 +54,7 @@ I am set to graduate in 2026 and am actively **seeking internship and job opport
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/Seg2Any.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Seg2Any.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Seg2Any: Open-set Segmentation-Mask-to-Image
