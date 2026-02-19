@@ -30,7 +30,7 @@ I am set to graduate in 2026 and am actively **seeking internship and job opport
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2025</div><img src='images/CreatiDesign.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CreatiDesign.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CreatiDesign: A Unified Multi-Conditional Diffusion Transformer for Creative Graphic Design](https://arxiv.org/pdf/2505.19114)
